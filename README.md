@@ -6,7 +6,7 @@ This is a simple currency converter web application built using HTML, CSS, and J
 
 The currency converter allows users to convert between different currencies based on the latest exchange rates.
 
-## Features
+## Steps
 - Input amount to convert
 - Select base and target currencies
 - Click on Exchange Rate
